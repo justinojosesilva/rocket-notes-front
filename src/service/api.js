@@ -1,5 +1,5 @@
 import axios from "axios"
 
 export const api = axios.create({
-  baseURL: "https://desafio-rocket-movie-api.onrender.com"
+  baseURL: "https://rocketnotes-api-8u3c.onrender.com"
 })
